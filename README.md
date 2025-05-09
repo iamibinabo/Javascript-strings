@@ -29,7 +29,7 @@ git clone https://github.com/your-username/javascript-strings-slides.git
 cd javascript-strings-slides
 ```
 
-Then go to [Slide.dev](https://slid.dev) and choose **"Upload Markdown"** to upload `javascript_strings_slide_deck.md`.
+Then go to [Slid.dev](https://slid.dev) and choose **"Upload Markdown"** to upload `javascript_strings_slide_deck.md`.
 
 ## Requirements
 
