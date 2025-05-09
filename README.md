@@ -1,7 +1,7 @@
 
 # JavaScript Strings – Slide Deck
 
-This repository contains a Markdown-based slide deck on **JavaScript Strings**, ideal for beginner JavaScript learners and coding presentations. Built for use with [Slide.dev](https://slide.dev).
+This repository contains a Markdown-based slide deck on **JavaScript Strings**, ideal for beginner JavaScript learners and coding presentations. Built for use with [Slide.dev](https://slid.dev).
 
 ## Topics Covered
 
@@ -16,9 +16,9 @@ This repository contains a Markdown-based slide deck on **JavaScript Strings**, 
 
 ##  How to Use
 
-### Option 1: View Slides on Slide.dev
+### Option 1: View Slides on Slid.dev
 
-1. Go to [https://slide.dev](https://slide.dev)
+1. Go to [https://slid.dev](https://slide.dev)
 2. Click **"Import from GitHub"**
 3. Select this repository and open `javascript_strings_slide_deck.md`
 
